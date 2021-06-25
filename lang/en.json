@@ -1,0 +1,23 @@
+{
+  "hint_enter_email":"Enter Email Id",
+  "hint_enter_password": "Enter Password",
+  "lbl_remember_me":"Remember Me",
+  "lbl_sign_in": "SIGN IN",
+  "lbl_forgot_password":"Forgot password?",
+  "lbl_don_t_have_an_account": "Don't have an account?",
+  "lbl_sign_up":"Sign Up",
+  
+  "lbl_submit":"Submit",
+  "lbl_email_id": "Email Id",
+  "lbl_password":"Password",
+
+  "hint_enter_full_name": "Enter Full Name",
+  "hint_re_enter_password":"Enter Re-Enter Password",
+  "lbl_already_have_an_account": "Already have an account?",
+  "lbl_first_name": "First Name",
+  "lbl_last_name":"Last Name",
+  "lbl_full_name": "Full Name",
+  "lbl_field_required":"Field Required",
+  "lbl_pwd_not_match":"Password not match"
+
+}
